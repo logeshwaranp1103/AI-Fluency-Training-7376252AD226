@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "category": "Self-Help",
+        "pages": 320,
+        "status": "Reading"
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "category": "Fiction",
+        "pages": 208,
+        "status": "Completed"
+    },
+    {
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "category": "Technology",
+        "pages": 464,
+        "status": "Reading"
+    },
+    {
+        "title": "Deep Work",
+        "author": "Cal Newport",
+        "category": "Productivity",
+        "pages": 304,
+        "status": "Not Started"
+    },
+    {
+        "title": "Ikigai",
+        "author": "Hector Garcia",
+        "category": "Self-Help",
+        "pages": 208,
+        "status": "Completed"
+    },
+    {
+        "title": "Python Crash Course",
+        "author": "Eric Matthes",
+        "category": "Technology",
+        "pages": 544,
+        "status": "Not Started"
+    },
+    {
+        "title": "The Psychology of Money",
+        "author": "Morgan Housel",
+        "category": "Finance",
+        "pages": 256,
+        "status": "Reading"
+    },
+    {
+        "title": "Rich Dad Poor Dad",
+        "author": "Robert Kiyosaki",
+        "category": "Finance",
+        "pages": 336,
+        "status": "Completed"
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "category": "Fiction",
+        "pages": 328,
+        "status": "Not Started"
+    },
+    {
+        "title": "The Pragmatic Programmer",
+        "author": "Andrew Hunt",
+        "category": "Technology",
+        "pages": 352,
+        "status": "Not Started"
+    }
+]
