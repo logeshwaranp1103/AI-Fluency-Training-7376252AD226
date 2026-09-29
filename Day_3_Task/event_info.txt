@@ -1,0 +1,12 @@
+COLLEGE EVENT INFORMATION
+
+Event: AI Workshop
+Date: 15 October 2026
+Time: 10:00 AM to 1:00 PM
+Venue: Seminar Hall 2, Main Academic Block
+Registration Fee: Rs. 250 per student
+Maximum Participants: 80
+Registration Deadline: 12 October 2026
+Organizer: Department of Computer Science
+
+This is private/local event information created for the Day 3 Agentic AI task.
